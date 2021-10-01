@@ -1,0 +1,11 @@
+
+Number of Edges Found: 11
+Number of Vertices Found: 7
+
+(B,F) => 1
+(D,C) => 1
+(A,B) => 1
+(E,G) => 2
+(F,G) => 2
+(B,C) => 3
+Cost of MST: 10
